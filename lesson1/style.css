@@ -1,0 +1,31 @@
+*{
+    padding: 0px ;
+    margin: 0px;
+}
+header{
+width: 100%;
+min-height: 900px;
+background: url("./mvshv23_illustration_banner_for_travel_agency_76985a48-b8bb-4ea1-b8b9-b1e4b16fa526.png");
+background-size: cover;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+header button{
+    margin-top: 30px;
+    width: 135px;
+height: 40px;
+padding: 10px;
+border-radius: 10px;
+gap: 10px;
+background: #F29025;;
+border: none;
+color: white;
+font-weight: 600 ;
+}
+form{
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 20px;
+}
